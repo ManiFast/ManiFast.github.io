@@ -1,1 +1,0 @@
-# ManiFast.github.io
