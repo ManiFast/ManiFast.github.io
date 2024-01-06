@@ -170,7 +170,7 @@ li > a:hover:before {
 .bord {
     color: #B2BAC1FF;
     margin-top: 5px;
-    font-family: 'Open Sans';
+    font-family: URW Chancery L, cursive;
     font-weight: 100;
     font-size: 18px;
     letter-spacing: 0px;
@@ -180,9 +180,9 @@ li > a:hover:before {
 
 .qoute {
     color: #ddd;
-    margin-top: 5px;
+    margin-top: 40px;
     /*'Open Sans' 'URW Chancery L, cursive' 'Brush Script MT, Brush Script Std, cursive'*/
-    font-family: 'URW Chancery L, cursive';
+    font-family: Open Sans;
     font-weight: 100;
     font-size: 18px;
     letter-spacing: 0px;
