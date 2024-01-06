@@ -169,9 +169,10 @@ li > a:hover:before {
 
 .bord {
     color: #ddd;
+    margin-top: 5px;
     font-family: 'Open Sans';
     font-weight: 100;
-    font-size: 25px;
+    font-size: 18px;
     letter-spacing: 0px;
     transition: letter-spacing 2s;
     animation: showing 2s steps(100) 2s 1 normal both;
