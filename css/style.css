@@ -168,16 +168,27 @@ li > a:hover:before {
 }
 
 .bord {
-    color: #ddd;
+    color: #969DA3FF;
     margin-top: 5px;
     font-family: 'Open Sans';
+    font-weight: 100;
+    font-size: 18px;
+    letter-spacing: 0px;
+    transition: letter-spacing 5s;
+    animation: showing 5s steps(100) 5s 1 normal both;
+}
+
+.qoute {
+    color: #ddd;
+    margin-top: 5px;
+    /*'Open Sans' 'URW Chancery L, cursive' 'Brush Script MT, Brush Script Std, cursive'*/
+    font-family: 'Brush Script MT, Brush Script Std, cursive';
     font-weight: 100;
     font-size: 18px;
     letter-spacing: 0px;
     transition: letter-spacing 2s;
     animation: showing 2s steps(100) 2s 1 normal both;
 }
-
 
 .welcome:hover {
     transition: letter-spacing 2s;
